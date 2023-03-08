@@ -11,6 +11,6 @@
 |  [![Gabs's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabsedits&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsedits&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 | --------- | -------- |
   
-  ![](https://komarev.com/ghpvc/?username=gabsedits&style=flat-square)
+  ![](https://komarev.com/ghpvc/?username=gabsedits&style=for-the-badge&color=red)
 
 </div>
