@@ -11,6 +11,6 @@
 |  [![Gabs's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabsedits&title_color=F17755&text_color=FFF1F3&icon_color=F17755&border_color=FFF1F3&bg_color=191515)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsedits&layout=compact&title_color=F17755&text_color=FFF1F3&icon_color=F17755&border_color=FFF1F3&bg_color=191515)](https://github.com/anuraghazra/github-readme-stats)
 | --------- | -------- |
   
-  ![](https://komarev.com/ghpvc/?username=gabsedits&style=for-the-badge&color=blueviolet)
+  ![](https://komarev.com/ghpvc/?username=gabsedits&style=for-the-badge&color=F17755)
 
 </div>
