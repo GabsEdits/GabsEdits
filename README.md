@@ -12,6 +12,9 @@
 | --------- | -------- |
   
   ![](https://komarev.com/ghpvc/?username=gabsedits&style=for-the-badge&color=F17755)
+<a href="https://gabs.eu.org">
+  <img src="https://img.shields.io/badge/Website-gabs.eu.org-F17755?style=for-the-badge" alt="Badge of my website" />
+</a>
  
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraineFlat.svg)](https://stand-with-ukraine.pp.ua)
 </div>
