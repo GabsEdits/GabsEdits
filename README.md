@@ -8,7 +8,7 @@
 <code><img height="20" alt="java" src="https://www.kloia.com/hubfs/java-1.png"></code>
 <code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>    
   
-|  [![Gabs's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabsedits&title_color=F17755&text_color=FFF1F3&icon_color=F17755&border_color=FFF1F3&bg_color=191515)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsedits&layout=compact&title_color=F17755&text_color=FFF1F3&icon_color=F17755&border_color=FFF1F3&bg_color=191515)](https://github.com/anuraghazra/github-readme-stats)
+|  [![Gabs's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabsedits&title_color=F17755&text_color=FFF1F3&icon_color=FFF1F3&border_color=FFF1F3&bg_color=191515&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsedits&layout=compact&title_color=F17755&text_color=FFF1F3&icon_color=F17755&border_color=FFF1F3&bg_color=191515)](https://github.com/anuraghazra/github-readme-stats)
 | --------- | -------- |
   
   ![](https://komarev.com/ghpvc/?username=gabsedits&style=for-the-badge&color=F17755)
