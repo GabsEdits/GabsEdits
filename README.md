@@ -20,5 +20,3 @@
  
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraineFlat.svg)](https://stand-with-ukraine.pp.ua)
 </div>
-
-<!-- This readme is yes -->
