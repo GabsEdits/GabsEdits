@@ -10,6 +10,8 @@
   
 |  [![Gabs's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabsedits&title_color=F17755&text_color=FFF1F3&icon_color=FFF1F3&border_color=FFF1F3&bg_color=191515&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsedits&layout=compact&title_color=F17755&text_color=FFF1F3&icon_color=F17755&border_color=FFF1F3&bg_color=191515)](https://github.com/anuraghazra/github-readme-stats)
 | --------- | -------- |
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=GabsEdits&theme=dark&background=191515&border=FFF1F3&fire=F17755&currStreakNum=F17755&ring=F17755&currStreakLabel=F17755)](https://git.io/streak-stats)
   
   ![](https://komarev.com/ghpvc/?username=gabsedits&style=for-the-badge&color=F17755)
 <a href="https://gabs.eu.org">
