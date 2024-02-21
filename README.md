@@ -9,10 +9,18 @@
 <code><img height="20" alt="bash/shell" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png"></code>
 <code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>    
   
-|  [![Gabs's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabsedits&title_color=F17755&text_color=FFF1F3&icon_color=FFF1F3&border_color=FFF1F3&bg_color=191515&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsedits&layout=compact&title_color=F17755&text_color=FFF1F3&icon_color=F17755&border_color=FFF1F3&bg_color=191515)](https://github.com/anuraghazra/github-readme-stats)
+|  [![Gabs's GitHub stats](https://237ffygr.vercel.app/api?username=gabsedits&title_color=F17755&text_color=FFF1F3&icon_color=FFF1F3&border_color=FFF1F3&bg_color=191515&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://237ffygr.vercel.app/api/top-langs/?username=gabsedits&layout=compact&title_color=F17755&text_color=FFF1F3&icon_color=F17755&border_color=FFF1F3&bg_color=191515)](https://github.com/anuraghazra/github-readme-stats)
 | --------- | -------- |
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=GabsEdits&theme=dark&background=191515&border=FFF1F3&fire=F17755&currStreakNum=F17755&ring=F17755&currStreakLabel=F17755)](https://git.io/streak-stats)
+  
+<br>
+<details><summary>GitHub Contribution Graph</summary>
+<br>
+ 
+[![Gabriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabsEdits&bg_color=191515&color=FFF1F3&line=F17755&point=FFF1F3&title_color=F17755&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</details>
+<br>
   
   ![](https://komarev.com/ghpvc/?username=gabsedits&style=for-the-badge&color=F17755)
 <a href="https://gabs.eu.org">
