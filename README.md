@@ -21,6 +21,10 @@
 [![Gabriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabsEdits&bg_color=191515&color=FFF1F3&line=F17755&point=FFF1F3&title_color=F17755&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
 <br>
+
+### Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
   
   ![](https://komarev.com/ghpvc/?username=gabsedits&style=for-the-badge&color=F17755)
 <a href="https://gabs.eu.org">
