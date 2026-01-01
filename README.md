@@ -4,11 +4,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="cover-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="cover-light.png">
-  <img alt="Fallback image description" src="cover-light.png">
+  <img alt="Fallback image description" src="cover-light.png" width="70%">
 </picture>
  </a>
 
- <br><br><br>
+ <br><br>
  
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraineFlat.svg)](https://stand-with-ukraine.pp.ua)
 </div>
